@@ -5,7 +5,7 @@ git pull
 git merge main
 pnpm i
 npm run build
-mv dist/client ../docs
+mv dist/client ./docs
 git add docs
 git commit -m "updated site"
 git push
