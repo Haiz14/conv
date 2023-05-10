@@ -1,0 +1,9 @@
+pre: 
+- ✔ setup github pages
+-✔  setup ci script
+
+0.1: 
+- create service page with contents
+- choose theme colors
+- write article on user flow
+- add readme
